@@ -1,7 +1,3 @@
----
-title: "ASIOS™ Community"
-about: "Community policies, governance, schedules, and collaboration resources for ASIOS™"
----
 
 # 🌐 ASIOS™ Community
 
