@@ -1,5 +1,6 @@
 
 # 🌐 ASIOS™ Community
+[![Sponsor](https://img.shields.io/github/sponsors/asi-os?label=Sponsor&logo=github)](https://github.com/sponsors/asi-os)
 
 Welcome to the **ASIOS™ Community** repository—your hub for community policies, meeting schedules, governance, and collaboration resources for **ASIOS™**.
 
