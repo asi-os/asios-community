@@ -2,20 +2,9 @@
 # 🌐 ASIOS™ Community
 [![Sponsor](https://img.shields.io/github/sponsors/asi-os?label=Sponsor&logo=github)](https://github.com/sponsors/asi-os)
 
-Welcome to the **ASIOS™ Community** repository—your hub for community policies, meeting schedules, governance, and collaboration resources for **ASIOS™**.
+Welcome to the **ASIOS™ Community** repository—your hub for collaboration.
 
 ---
-
-## 📜 Policies & Guidelines
-
-- **Code of Conduct** → [`.github/CODE_OF_CONDUCT.md`](https://github.com/asi-os/.github/blob/main/CODE_OF_CONDUCT.md)  
-- **Contribution Guidelines** → [`.github/CONTRIBUTING.md`](https://github.com/asi-os/.github/blob/main/CONTRIBUTING.md)  
-- **Governance & Control Framework** → [asios-docs/GOVERNANCE.md](https://github.com/asi-os/asios-docs/blob/main/GOVERNANCE.md)  
-- **Ethical AI Principles** → [asios.ai/legal#ethical-ai](https://asios.ai/legal#ethical-ai)  
-- **Contributor Agreements (CLA & DCO)**  
-  - [ICLA](https://github.com/asi-os/asios-legal/blob/main/ICLA.md)  
-  - [DCO](https://github.com/asi-os/asios-legal/blob/main/DCO.md)  
-- **Export Compliance Policy** → [EXPORT-COMPLIANCE.md](https://github.com/asi-os/asios-legal/blob/main/EXPORT-COMPLIANCE.md)
 
 ---
 ## Community modules: All “must‑be‑developed” roadmap deliverables.
