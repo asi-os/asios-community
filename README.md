@@ -18,7 +18,7 @@ Welcome to the **ASIOS™ Community** repository—your hub for community polici
 - **Export Compliance Policy** → [EXPORT-COMPLIANCE.md](https://github.com/asi-os/asios-legal/blob/main/EXPORT-COMPLIANCE.md)
 
 ---
-## Community modules (e.g. asios-community) and all “must‑be‑developed” roadmap deliverables.
+## Community modules: All “must‑be‑developed” roadmap deliverables.
 
 ---
 
