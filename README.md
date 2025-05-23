@@ -18,45 +18,7 @@ Welcome to the **ASIOS™ Community** repository—your hub for community polici
 - **Export Compliance Policy** → [EXPORT-COMPLIANCE.md](https://github.com/asi-os/asios-legal/blob/main/EXPORT-COMPLIANCE.md)
 
 ---
-
-## 🗓️ Meetings & Events
-
-### 🧭 Community Steering Committee (CSC)
-- **Frequency:** Quarterly (Jan, Apr, Jul, Oct)  
-- **Next Meeting:** July 2025  
-- **Minutes:** [meetings/csc/](https://github.com/asi-os/asios-community/tree/main/meetings/csc)
-
-### 🛠️ Technical Working Groups (TWGs)
-Bi-monthly meetings on:
-- Kernel & OS Core  
-- Security & Compliance  
-- Telemetry & Observability  
-- GPU & Accelerator Support  
-- ARM64 & x86_64 Architectures  
-- Documentation & Release Management  
-- AI Ethics & Safety  
-
-See [meetings/twgs/](https://github.com/asi-os/asios-community/tree/main/meetings/twgs).
-
-### 📣 Monthly Town Halls
-- **When:** 1st Thursday each month, 16:00 UTC  
-- **Where:** Zoom (link in Discord)  
-- **Recordings:** [meetings/town-halls/](https://github.com/asi-os/asios-community/tree/main/meetings/town-halls)
-
----
-
-## 🤝 How to Join
-
-### 🧭 Join the CSC
-1. **Eligibility:** ≥ 5 merged PRs or documentation contributions in the past 12 months  
-2. **Nomination:** Opens every May via [CSC Nomination Form](https://forms.asios.ai/csc-nominate)  
-3. **Statement:** 200-word intent statement  
-4. **Voting:** All CLA-signed contributors  
-
-### 🛠️ Join a TWG
-- Open membership—no election required  
-- Post interest in the relevant [TWG discussion category](https://github.com/asi-os/asios-community/discussions/categories/twgs)  
-- Attend the next scheduled meeting
+## Community modules (e.g. asios-community) and all “must‑be‑developed” roadmap deliverables.
 
 ---
 
